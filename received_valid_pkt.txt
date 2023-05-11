@@ -1,0 +1,28 @@
+TLP: 000001000000000000000000000000011001001000001100100111010000001100000000000000000000111100000000 00000000000000000000000000000000
+header is 0x4000001920c9d0300000f00, Data is 0x0
+ep_fn Fmt = 000
+type 00100
+TC is 000
+Attr1 is 0
+Attr0 is 00
+Final Attr is 000
+TH is 0
+TD is 0
+EP is 0
+AT is 00
+Length is 0000000001
+Requester ID is 1001001000001100
+Tag is 10011101
+Last DW BE is 0000
+First DW BE is 0011
+Completion ID is 0000000000000000
+External Register Num is 1111
+Register Num is 000000
+Data is 00000000000000000000000000000000
+Packet passed the checker!
+
+
+
+
+number of valid packets are 1
+valid packet numbers are [6]
